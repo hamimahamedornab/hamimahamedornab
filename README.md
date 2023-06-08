@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamim Ahamed Ornab</h1>
-<h3 align="center">a passionate Flutter developer with a knack for creating sleek and user-friendly mobile applications.</h3><br>
+<h3 align="center">A passionate Flutter developer with a knack for creating sleek and user-friendly mobile applications.</h3><br>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br>
 
